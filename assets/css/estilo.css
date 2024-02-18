@@ -21,20 +21,24 @@ img{
     display:inline-block;
     width: 80vw;
     text-align: center;
+    border-right: 0.5vh dotted grey;
 }
 .title-main{
-    font-size: 4.5vh;
+    font-size: 4.35vh;
     font-style: bold;
-    overflow-x:scroll;
+    overflow-x:auto;
+    white-space: nowrap;
 }
 .imagem-titulo{
-    height: 5.25vh;
+    height: 5.10vh;
 }
 .title-sub{
-    font-size: 2.75vh;
-    overflow-x:scroll;
+    font-size: 2vh;
+    overflow-x:auto;
+    white-space: nowrap;
 }
 .score{
+    padding-left: 2vw;
     width: 20vw;
     display:inline-block;
     font-size: 6vh;
