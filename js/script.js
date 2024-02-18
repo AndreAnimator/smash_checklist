@@ -85,8 +85,7 @@ document.querySelector('.submit-button').addEventListener('click', function() {
   
 
   // Replace 'your-api-id' and 'your-api-key' with your actual API ID and key
-  const apiId = "4ce5f2bb-e4c2-4ae3-95bc-61bf7408d0ca"
-  const apiKey = "ea170492-64e7-46f0-b618-baf96a424b7f"
+  
 
   const options = {
     method: 'POST',

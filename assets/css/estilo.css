@@ -44,3 +44,25 @@ img{
     font-size: 6vh;
     font-style: bold;
 }
+.submit-button{
+    width: 20vw;
+    height: 5vh;
+    font-size: 2vh;
+    text-align: center;
+    border-radius: 5px;
+    background-color: greenyellow;
+    color:black;
+    margin-right: 40vw;
+    margin-left: 40vw;
+    overflow-x: auto;
+    overflow-y: auto;
+    cursor: pointer;
+}
+.submit-button:hover{
+    background-color: rgb(139, 227, 85);
+    color: black;
+}
+.submit-button:active{
+    background-color: rgb(34, 103, 35);
+    color: whitesmoke;
+}
