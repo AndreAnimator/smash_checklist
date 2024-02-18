@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+}
+input{
+    display:inline-block;
+}
+img{
+    display:inline-block;
+    padding:1vh;
+    object-fit: contain;
+}
+.elemento{
+    display: flex;
+    height:9vh;
+}
+.title-container{
+    height:10vh;
+    display: flex;
+}
+.title{
+    display:inline-block;
+    width: 80vw;
+    text-align: center;
+}
+.title-main{
+    font-size: 4.5vh;
+    font-style: bold;
+    overflow-x:scroll;
+}
+.imagem-titulo{
+    height: 5.25vh;
+}
+.title-sub{
+    font-size: 2.75vh;
+    overflow-x:scroll;
+}
+.score{
+    width: 20vw;
+    display:inline-block;
+    font-size: 6vh;
+    font-style: bold;
+}
